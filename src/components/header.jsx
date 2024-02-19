@@ -10,7 +10,7 @@ const Header = () => {
                         src={logo}
                         width={"120px"}
                         height={"50px"}
-                        alt="No Image"
+                        alt="No Imag"
                     />
 
                     <div className="form w-50">
